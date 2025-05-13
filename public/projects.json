@@ -1,0 +1,30 @@
+[
+  {
+    "name": "CoreIdea (Sold for over $1.5k)",
+    "desc": "Took various files and created markdown notes that were editable and downloable. Notes were accessible from any device.",
+    "website": "/",
+    "languages": ["JavaScript", "React", "CSS"],
+    "sold": true
+  }, 
+  {
+    "name": "DataViz",
+    "desc": "A data visualization tool that allows users to upload csv data and visualize it in a variety of ways. 5700 rows of data took a while, 200 rows of data was quick.",
+    "website": "https://dataviz-czmf.onrender.com/",
+    "languages": ["HTML", "Flask", "CSS"],
+    "sold": false
+  },
+  {
+    "name": "PeerMatch",
+    "desc": "A social network for students to find study partners.",
+    "website": "https://peermatch.vercel.app/",
+    "languages": ["Firebase", "ReactJS", "Flask"],
+    "sold": false
+  },
+  {
+    "name": "Flow State Pomodoro Timer",
+    "desc": "Starts with a set time to reach but once you go over the time set, you enter the flow state allowing you to contineu working without any interruptions. But, it does stop you on time for the break timer.",
+    "website": "https://flowstatetimer.vercel.app/",
+    "languages": ["ReactJS"],
+    "sold": false
+  }
+] 
