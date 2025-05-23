@@ -8,7 +8,7 @@
   }, 
   {
     "name": "DataViz",
-    "desc": "A data visualization tool that allows users to upload csv data and visualize it in a variety of ways. 5700 rows of data took a while, 200 rows of data was quick.",
+    "desc": "A data visualization tool that allows users to upload csv data and visualize it in a variety of ways. 5700 rows of data took a while, 200 rows of data was quick. 200+ weekly users, 20-50 daily users.",
     "website": "https://dataviz-czmf.onrender.com/",
     "languages": ["HTML", "Flask", "CSS"],
     "sold": false
