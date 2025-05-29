@@ -137,6 +137,7 @@ function App() {
               <h3>Frameworks & Libraries</h3>
               <ul>
                 <li>React.js</li>
+                <li>TypeScript</li>
                 <li>Flask</li>
                 <li>TensorFlow</li>
                 <li>PyTorch</li>
@@ -153,6 +154,7 @@ function App() {
                 <li>Git</li>
                 <li>Docker</li>
                 <li>AWS</li>
+                <li>SQL</li>
               </ul>
             </div>
             <div className="skill-category">
