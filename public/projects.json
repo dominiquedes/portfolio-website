@@ -34,10 +34,6 @@
       {
         "name": "Live Demo",
         "url": "https://dataviz-czmf.onrender.com/"
-      }, 
-      {
-        "name": "Github",
-        "url": "https://github.com/dominiquedes/DataViz"
       }
     ],
     "languages": ["React", "Node.js", "D3.js"],
