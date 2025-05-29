@@ -29,7 +29,7 @@
   },
   {
     "name": "DataViz Platform",
-    "desc": "Built a full-stack web application for data visualization and analysis\nImplemented real-time data processing and interactive visualization features\nIntegrated multiple data sources and APIs for comprehensive analytics",
+    "desc": "Flask app for auto-visualizing CSV data\nCleans data, removes outliers, performs PCA + KMeans\nCreates charts and visual summaries\n200+ weekly users",
     "links": [
       {
         "name": "Live Demo",
