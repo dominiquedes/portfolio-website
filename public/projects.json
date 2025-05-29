@@ -1,30 +1,70 @@
 [
   {
-    "name": "CoreIdea (Sold for over $1.5k)",
-    "desc": "Took various files and created markdown notes that were editable and downloable. Notes were accessible from any device.",
-    "website": "/",
-    "languages": ["JavaScript", "React", "CSS"],
-    "sold": true
-  }, 
+    "name": "Firebase-populator",
+    "desc": "Python Package for Database Seeding\nAutomates Firestore data generation",
+    "links": [
+      {
+        "name": "PyPI",
+        "url": "https://pypi.org/project/firebase-populator/"
+      },
+      {
+        "name": "Stats",
+        "url": "https://pypistats.org/packages/firebase-populator"
+      }
+    ],
+    "languages": ["Python", "Firebase"],
+    "sold": false
+  },
   {
-    "name": "DataViz",
-    "desc": "A data visualization tool that allows users to upload csv data and visualize it in a variety of ways. 5700 rows of data took a while, 200 rows of data was quick.",
-    "website": "https://dataviz-czmf.onrender.com/",
-    "languages": ["HTML", "Flask", "CSS"],
+    "name": "Airbnb Price Prediction",
+    "desc": "Airbnb price prediction using deep learning and ensemble models (NN, XGBoost, RF)\nMAE of $11.30 and R² of 0.87 using feature engineering and model stacking\nAutomated preprocessing pipeline with data validation, outlier removal, and interaction features\nOptimized Neural Network using BatchNorm, dropout, Huber loss\nVisualized results using error distribution, feature importance, and performance across price ranges",
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/dominiquedes/airbnb_ml_nn/tree/main"
+      }
+    ],
+    "languages": ["Neural Network", "XGBoost", "Random Forest"],
+    "sold": false
+  },
+  {
+    "name": "DataViz Platform",
+    "desc": "Built a full-stack web application for data visualization and analysis\nImplemented real-time data processing and interactive visualization features\nIntegrated multiple data sources and APIs for comprehensive analytics",
+    "links": [
+      {
+        "name": "Live Demo",
+        "url": "https://dataviz-czmf.onrender.com/"
+      }
+    ],
+    "languages": ["React", "Node.js", "D3.js"],
     "sold": false
   },
   {
     "name": "PeerMatch",
-    "desc": "A social network for students to find study partners.",
-    "website": "https://peermatch.vercel.app/",
-    "languages": ["Firebase", "ReactJS", "Flask"],
+    "desc": "Web application that matches students with compatible partners from the onboarding form\nUsed advanced algorithms to enhance matching relevance\nUsed AI to analyze subject relationships and improve match accuracy",
+    "links": [
+      {
+        "name": "Live App",
+        "url": "https://peermatch.vercel.app/"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/dominiquedes/peermatch"
+      }
+    ],
+    "languages": ["Web Development", "AI", "Algorithms"],
     "sold": false
   },
   {
-    "name": "Flow State Pomodoro Timer",
-    "desc": "Starts with a set time to reach but once you go over the time set, you enter the flow state allowing you to contineu working without any interruptions. But, it does stop you on time for the break timer.",
-    "website": "https://flowstatetimer.vercel.app/",
-    "languages": ["ReactJS"],
+    "name": "ML and AI Comparison",
+    "desc": "Regression model using scikit learn to predict tipping behavior\nApplied PCA for dimensionality reduction, improving model clarity\nCompared Linear Regression and Neural Network models using MAE",
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/dominiquedes/ml_ai_project"
+      }
+    ],
+    "languages": ["scikit-learn", "PCA", "Linear Regression"],
     "sold": false
   }
 ] 
