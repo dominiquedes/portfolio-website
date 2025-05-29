@@ -36,7 +36,7 @@
         "url": "https://dataviz-czmf.onrender.com/"
       }
     ],
-    "languages": ["React", "Node.js", "D3.js"],
+    "languages": ["Flask", "Matplotlib", "Seaborn", "Pandas", "Numpy"],
     "sold": false
   },
   {
