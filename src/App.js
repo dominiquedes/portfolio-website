@@ -75,7 +75,7 @@ function App() {
             <div className="links">
               <a href="mailto:dominiquedesertb@gmail.com" className="link">email</a>
               <span className="link-separator">•</span>
-              <a target="_blank" rel="noopener noreferrer" href="https://tinyurl.com/dom-linkedin" className="link">linkedin</a>
+              <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/dominique-desert-30307a356/" className="link">linkedin</a>
               <span className="link-separator">•</span>
               <a target="_blank" rel="noopener noreferrer" href="https://github.com/dominiquedes" className="link">github</a>
               <span className="link-separator">•</span>

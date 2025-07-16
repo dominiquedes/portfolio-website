@@ -29,11 +29,11 @@
   },
   {
     "name": "DataViz Platform",
-    "desc": "Flask app for auto-visualizing CSV data\nCleans data, removes outliers, performs PCA + KMeans\nCreates charts and visual summaries\n200+ weekly users",
+    "desc": "Flask app for auto-visualizing CSV data\nCleans data, removes outliers, performs PCA + KMeans\nCreates charts and visual summaries\n200+ weekly users\nHad to unpublish due to high traffic and server costs",
     "links": [
       {
-        "name": "Live Demo",
-        "url": "https://dataviz-czmf.onrender.com/"
+        "name": "Github",
+        "url": "https://github.com/dominiquedes/DataViz"
       }
     ],
     "languages": ["Flask", "Matplotlib", "Seaborn", "Pandas", "Numpy"],
