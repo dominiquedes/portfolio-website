@@ -44,10 +44,6 @@
     "desc": "Web application that matches students with compatible partners from the onboarding form\nUsed advanced algorithms to enhance matching relevance\nUsed AI to analyze subject relationships and improve match accuracy",
     "links": [
       {
-        "name": "Live App",
-        "url": "https://peermatch.vercel.app/"
-      },
-      {
         "name": "Github",
         "url": "https://github.com/dominiquedes/peermatch"
       }
