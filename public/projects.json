@@ -50,6 +50,10 @@
       {
         "name": "Github",
         "url": "https://github.com/dominiquedes/peermatch"
+      },
+       {
+        "name": "Live App",
+        "url": "https://peermatch.vercel.app/"
       }
     ],
     "languages": ["Web Development", "AI", "Algorithms"],
